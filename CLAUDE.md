@@ -27,7 +27,7 @@ People buy from people they believe. Belief is earned by telling the truth when 
 
 ## Housekeeping
 
-- In git since 2 October 2026 (local only, no remote).
+- In git since 2 October 2026. Remote: github.com/nMoscardini/devTrusted.
 - devProjectStatus and gitStatus find every `~/dev*` folder on their own, so the rename needed no changes there.
 
 Audited on 26 September 2026.
