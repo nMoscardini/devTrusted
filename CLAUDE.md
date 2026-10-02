@@ -1,6 +1,6 @@
-# devInstagram (Trusted) - CLAUDE.md
+# devTrusted - CLAUDE.md
 
-Not code. This folder is the "Trusted" sales methodology: Nino's sales approach built on belief, with saved Instagram sales tips tested against it. The name is confusing. The Instagram tool itself is `~/devUtils/devInstagram` (command `instagrame`). This folder holds what was made from its output.
+Not code. This folder is the "Trusted" sales methodology: Nino's sales approach built on belief, with saved Instagram sales tips tested against it. Renamed from `~/devInstagram` on 2 October 2026, because the old name was mistaken for the tool. The Instagram tool itself is `~/devUtils/devInstagram` (command `instagrame`). This folder holds what was made from its output.
 
 ## The files
 
@@ -25,9 +25,9 @@ People buy from people they believe. Belief is earned by telling the truth when 
 - Agree the drop list: check the Keep, Adapt, Drop calls in the catalogue.
 - Capture ten deal stories, weighted to the gaps (buying groups and big accounts), in the one story, one principle, one action format.
 
-## Known gaps
+## Housekeeping
 
-- Not in git.
-- The folder name suggests code. Consider renaming it, for example `devTrusted`. That would change its card on devProjectStatus and its entry in gitStatus.
+- In git since 2 October 2026 (local only, no remote).
+- devProjectStatus and gitStatus find every `~/dev*` folder on their own, so the rename needed no changes there.
 
 Audited on 26 September 2026.
